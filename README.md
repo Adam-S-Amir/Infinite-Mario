@@ -1,5 +1,2 @@
 # Play
-[Play Here](https://adamtrex.azurewebsites.net/index.html)
-
-# Changes made by Magnus Marks
-[View Changes](https://github.com/MagnusMarx/Infinite-Mario/compare/master%40%7B1day%7D...master)
+[Play Here](https://magnusware-libs.vercel.app/Application%20Files/Mario%20Games/Infinite%20Mario/index.html)
